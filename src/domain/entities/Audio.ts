@@ -11,4 +11,5 @@ export interface Audio {
     urlFicheiro: string;
     capaUrl: string;
     categoria: 'musica' | 'podcast' | 'estudo'; // Unio type: aceita apenas estas opcoes
+    criadoEm: Date;
 }
