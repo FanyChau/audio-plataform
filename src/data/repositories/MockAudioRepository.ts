@@ -8,18 +8,18 @@ const MOCK_AUDIOS: Audio[] = [
     titulo: 'Clen Code na Pratica',
     artista: 'Podcast Dev',
     duracaoEmSegundos: 1800,
-    urlFicheiro: 'https://ww.sondthelix.com/exe,ples/mp3Soudhelix-Song-1.mp3',
-    capaUrl: 'htpps://picsum.photos/200?random=1',
+    urlFicheiro: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=300&q=80',
+    capaUrl: 'https://picsum.photos/200?random=1',
     categoria: 'podcast',
     criadoEm: new Date()
     },
     {
-        id: '1',
-        titulo: 'Sintaxe e Tippos no TypeScript',
+        id: '2',
+        titulo: 'Sintaxe e Tipos no TypeScript',
         artista: 'Aula Tech',
         duracaoEmSegundos: 900,
-        urlFicheiro: 'https://ww.sondthelix.com/exe,ples/mp3Soudhelix-Song-2.mp3',
-        capaUrl: 'htpps://picsum.photos/200/200?random=2',
+        urlFicheiro: 'https://images.unsplash.com/photo-1511671782779-c97d3d2a1d4?w=300&q=80',
+        capaUrl: 'https://picsum.photos/200/200?random=2',
         categoria: 'estudo',
         criadoEm: new Date()
     }
